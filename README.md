@@ -14,7 +14,3 @@
 - [ ] C & JAVA 기초 공부
 - [ ] toeic 시험 공부
 
----
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hazechoi&show_icons=true&theme=tokyonight&cache_seconds=60)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hazechoi&layout=compact&theme=tokyonight&cache_seconds=60)
