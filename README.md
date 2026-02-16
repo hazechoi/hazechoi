@@ -1,4 +1,4 @@
-![snake gif](https://github.com/내아이디/내아이디/blob/output/github-code-grid-snake.gif)
+![snake gif](https://github.com/hazechoii/hazechoii/blob/output/github-code-grid-snake.gif)
 
 ### 🛠 Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
