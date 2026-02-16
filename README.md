@@ -5,6 +5,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-0078D4?style=for-the-badge&logo=analysis&logoColor=white)
 
+
 ### 📚 Learning Now
 - [ ] 정보처리기사 실기 준비
 - [ ] 빅데이터분석기사 실기 준비
