@@ -15,6 +15,6 @@
 - [ ] toeic 시험 공부
 
 ---
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourID&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hazechoi&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourID&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hazechoi&layout=compact&theme=tokyonight)
